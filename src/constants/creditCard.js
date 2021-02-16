@@ -24,3 +24,11 @@ export const optionsForCreditNr = {
 export const optionsForDate = { date: true, datePattern: ['m', 'y'] };
 
 export const optionsForCVC = { blocks: [3], numericOnly: true };
+
+export const CREDIT_CARD_NAME = 'creditNr';
+export const CREDIT_CARD_LENGTH = 19;
+export const DATE_NAME = 'date';
+export const DATE_LENGTH = 5;
+export const FIRST_NUMBER_MASTERCARD = '5';
+export const FIRST_NUMBER_VISA = '4';
+export const BACKSPACE_KEYCODE = 8;
