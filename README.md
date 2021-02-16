@@ -18,8 +18,8 @@ Here is a working demo: [Credit Card App](https://www.kg.glogow.pl/projects/webs
 
 ### Screenshots
 
-![Fail](/assets/img/fail.png)
-![MasterCard](/assets/img/mastercardImg.png)
+![Fail](/src/assets/img/fail.png)
+![MasterCard](/src/assets/img/mastercardImg.png)
 
 ### Technologies :fire:
 
@@ -30,4 +30,4 @@ Here is a working demo: [Credit Card App](https://www.kg.glogow.pl/projects/webs
 
 ### About testing
 
-There are unit tests in projects
+There are unit tests in the projects using [Testing Library](https://testing-library.com/) and [JestJs](https://jestjs.io/)
